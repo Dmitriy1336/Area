@@ -7,14 +7,14 @@ def readme():
 
 
 setup(
-  name='speedfile',
+  name='calculate_area',
   version='0.0.1',
   author='jaden',
   author_email='dmitrijkaraulov7@gmail.com',
   description='This is module for send area',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='your_url',
+  url='https://github.com/Dmitriy1336/Area/',
   packages=find_packages(),
   install_requires=['requests>=2.25.1'],
   classifiers=[
@@ -22,9 +22,9 @@ setup(
     'License :: OSI Approved :: MIT License',
     'Operating System :: OS Independent'
   ],
-  keywords='files speedfiles ',
+  keywords='calculating area',
   project_urls={
-    'GitHub': 'your_github'
+    'GitHub': 'https://github.com/Dmitriy1336/Area/'
   },
   python_requires='>=3.6'
 )
