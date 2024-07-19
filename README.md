@@ -6,3 +6,5 @@
 2. py
 3. from find_area_figure import main
 
+# Библиотека готова к использованию!
+
