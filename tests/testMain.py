@@ -1,6 +1,6 @@
 import unittest
 
-from area import Calculate
+from src.send_area import Calculate
 class TestCalculate(unittest.TestCase):
   def setUp(self):
     self.calculator = Calculate()
